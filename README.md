@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ruslan Shevyrev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :wave: Hi, I’m Ruslan Shevyrev
+- :computer: I develop applications in the field of economic services and inventory control on Oracle PL/SQL. As the main technology stack I use: PL/SQL, Oracle APEX, Javascript, Jquery, HTML, CSS. As additional skills I use JAVA, node.js, and PHP. Besides, I have worked with JasperReports, Crystal Reports, APACHE POI. I have used GIT, SVN, VSC, TFS, Redmine. Some of my projects were developed with the use of SCRUM methodology. I have experience as a system administrator, teaching Robotics, Programming and Computer Science. I am interested in technical innovations and passionate about the IT field.
+- :book: I’m interested in programming, technologies, science fiction, board games.
+- :eyes: I’am looking for cooperation in companies with interesting remote projects or with the possibility of relocation
 
-<!---
-Ruslan-Shevyrev/Ruslan-Shevyrev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <img src="/media/logo.gif" width="49%" title="logo">
+  <img src="/media/logoRS_FULL.png" width="49%" title="RuslanShevyrev" >
+</p>
