@@ -4,6 +4,6 @@
 - :eyes: I’am looking for cooperation in companies with interesting remote projects or with the possibility of relocation
 
 <p align="left">
-  <img src="/media/logo.gif" width="49%" title="logo">
-  <img src="/media/logoRS_FULL.png" width="49%" title="RuslanShevyrev" >
+  <img src="/logoRS/logo.gif" width="49%" title="logo">
+  <img src="/logoRS/logoRS_FULL.png" width="49%" title="RuslanShevyrev" >
 </p>
