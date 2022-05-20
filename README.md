@@ -5,7 +5,7 @@
 - :book: I’m interested in programming, technologies, science fiction, board games.
 - :eyes: I’am looking for cooperation in companies with interesting remote projects or with the possibility of relocation
 
-<table cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td valign="center" width="49%"><img src="/logoRS/logo_mini.gif" title="logo"></td>
     <td valign="center" width="49%"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
