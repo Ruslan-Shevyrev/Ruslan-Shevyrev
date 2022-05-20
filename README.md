@@ -5,11 +5,6 @@
 - :book: I’m interested in programming, technologies, science fiction, board games.
 - :eyes: I’am looking for cooperation in companies with interesting remote projects or with the possibility of relocation
 
-<div id="main" align="left">
-  <img src="/logoRS/logo_mini.gif" width="60%" title="logo">
-  <img src="/logoRS/logoRS_FULL.png" width="40%" title="RuslanShevyrev">
-</div>
-
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="49%"><img src="/logoRS/logo_mini.gif" title="logo"></td>
