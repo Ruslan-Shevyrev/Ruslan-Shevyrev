@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top"><img src="/logoRS/logo_mini.gif" title="logo"></td>
-    <td valign="top"><img src="/logoRS/logoRS_FULL.png" width="40%" title="RuslanShevyrev"></td>
+    <td valign="top"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
   </tr>
 </table>
 
