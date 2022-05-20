@@ -10,10 +10,10 @@
   <img src="/logoRS/logoRS_FULL.png" width="40%" title="RuslanShevyrev">
 </div>
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top"><img src="/logoRS/logo_mini.gif" title="logo"></td>
-    <td valign="top"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
+    <td valign="top" width="49%"><img src="/logoRS/logo_mini.gif" title="logo"></td>
+    <td valign="top" width="49%"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
   </tr>
 </table>
 
