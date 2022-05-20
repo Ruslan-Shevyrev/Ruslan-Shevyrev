@@ -7,8 +7,8 @@
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="49%"><img src="/logoRS/logo_mini.gif" title="logo"></td>
-    <td valign="top" width="49%"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
+    <td valign="center" width="49%"><img src="/logoRS/logo_mini.gif" title="logo"></td>
+    <td valign="center" width="49%"><img src="/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
   </tr>
 </table>
 
